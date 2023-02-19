@@ -5,7 +5,7 @@ const Error = () => {
   return (
     <section className={'error-page section'}>
       <div className="error-container">
-          <h1>Ошибочка</h1>
+          <h1>Oops, some error occured!</h1>
           <Link to={'/'} className={'btn btn-primary'}>
               back home
           </Link>
